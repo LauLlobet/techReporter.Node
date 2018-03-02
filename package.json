@@ -1,0 +1,16 @@
+{
+  "name": "tech.report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google": "^2.1.0",
+    "mac-open": "^0.1.3",
+    "markdown-it": "^8.4.1"
+  }
+}
